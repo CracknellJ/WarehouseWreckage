@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UE_Projects/WarehouseWreckage/WarehosueWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/UE_Projects/WarehouseWreckage/WarehosueWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UE_Projects/WarehouseWreckage/WarehosueWreckage/Content/Duplicates/Minimal_Default1.umap",
+				"D:/UE_Projects/WarehouseWreckage/WarehosueWreckage/Content/Duplicates/Miniman_Default.umap",
+				"D:/UE_Projects/WarehouseWreckage/WarehosueWreckage/Content/Duplicates/Minimal_Default.umap"
 			]
 		}
 	]
